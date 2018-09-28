@@ -1,25 +1,11 @@
 - title: "About"
-  href: "/"
+  href: "/about/"
 
 - title: "Math Blog"
   href: "/blog/"
 
 - title: "Research"
   href: "/research/"
-  subcategories:
-    - subtitle: "Projects"
-      subhref: "/research/projects/"
-    - subtitle: "Publications"
-      subhref: "/research/publications/"
-    - subtitle: "Talks"
-      subhref: "/research/talks/"
+  
 
-- title: "Miscellany"
-  href: "/miscellany/"
-  subcategories:
-    - subtitle: "Study Material"
-      subhref: "/miscellany/study-material/"
-    - subtitle: "Research Supplements"
-      subhref: "/miscellany/research-supplements"
-    - subtitle: "Other"
-      subhref: "/miscellany/other/"
+
