@@ -9,7 +9,8 @@ layout: default
 Undergraduate Student, University of Chicago <br>
 Computational and Applied Mathematics, Statistics <br>
 
-<em>Email: </em><a href="mailto:rydmello@gmail.com">rydmello@gmail.com</a> | <a href="mailto:rdmello@uchicago.edu">rdmello@uchicago.edu</a> <br>
+<em>Email: </em><a href="mailto:rydmello@gmail.com">rydmello@gmail.com</a> | <a 
+href="mailto:rdmello@uchicago.edu">rdmello@uchicago.edu</a> <br>
 
 
 ## About 
