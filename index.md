@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-{% include image.html url="/images/Obama.jpg" caption="Meeting with President Obama as an Intel Science Talent Search Finalist in 2015. My research involved applying an old problem in number theory and elliptic curves to better encryption methods. There were applications of my research in national cybersecurity. " width=580 align="right" %}
+{% include image.html url="/images/Obama.jpg" caption="Meeting with President Obama as an Intel Science Talent Search Finalist in 2015. My research involved applying an old problem in number theory and elliptic curves to better encryption methods. There were applications of my research in cybersecurity. " width=325 align="right" %}
 
 # Ryan D'Mello  
 Undergraduate Student, University of Chicago <br>
