@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-{% include image.html url="/images/Obama.jpg" caption="Meeting with President Obama as an Intel Science Talent Search Finalist in 2015. My research involved applying an old problem in number theory and elliptic curves to better encryption methods. There were applications of my research in cybersecurity. " width=400 align="left" %}
+{% include image.html url="/images/Obama.jpg" caption="Meeting with President Obama as an Intel Science Talent Search Finalist in 2015. My research involved applying an old problem in number theory and elliptic curves to better encryption methods. There were applications of my research in cybersecurity. " width=400 align="center" %}
 
 # Ryan D'Mello  
 Undergraduate Student, University of Chicago <br>
@@ -29,7 +29,7 @@ My interests remain at the intersection of Natural Language Processing and Machi
 
 ## Interests
 
-{% include image.html url="/images/NBA Draft 2018.png" caption="Interview on the Chicago Bulls future at the 2018 NBA Draft in NYC" width=400 align="left" %}
+{% include image.html url="/images/NBA Draft 2018.png" caption="Interview on the Chicago Bulls future at the 2018 NBA Draft in NYC" width=400 align="center" %}
 
 <p align="justify" style="max-width:600px">
 In my free time, I enjoy Chess, Poker, and jamming on bass guitar. I also enjoy watching the NBA and NFL, and am an avid Chicago Bulls and Chicago Bears fan.
