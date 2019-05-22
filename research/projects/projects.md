@@ -8,8 +8,9 @@ For a non-square positive integer x, let k_x denote the distance between x^3 and
 
 
 - **[Viola Jones Facial Detection Framework](https://github.com/rydmel/Viola-Jones){:target="_blank"}**: <br>
-
+Viola Jones implementation in Python to detect faces in pictures
 
 - **[Feed-Forward NN for Digit Classification using MNIST dataset](https://github.com/rydmel/Feed-Forward-NN-for-Digit-Classification-MNIST-){:target="_blank"}**: <br>
+Feed-forward neural network (NN) from scratch in Python using only standard matrix/vector operators. Trained by back-propagation to solve 10-digit classification task.
 
 
