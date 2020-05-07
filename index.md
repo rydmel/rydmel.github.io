@@ -5,7 +5,7 @@ layout: default
 
 
 # Ryan D'Mello  
-Undergraduate Student, University of Chicago <br>
+University of Chicago Grad <br>
 Computational and Applied Mathematics, Statistics <br>
 
 <em>Email: </em><a href="mailto:rydmello@gmail.com">rydmello@gmail.com</a> | <a 
