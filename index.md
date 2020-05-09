@@ -15,11 +15,13 @@ href="mailto:rdmello@uchicago.edu">rdmello@uchicago.edu</a> <br>
 
 {% include image.html url="/images/Obama.jpg" caption="Meeting with President Obama as an Intel Science Talent Search Finalist in 2015. My research involved applying an old problem in number theory and elliptic curves to better encryption methods. There were applications of my research in cybersecurity. " width=450 align="right" %} 
 
+
+
 ## About 
 
 
 <p align="justify" style="max-width:600px">
-Ryan D'Mello is a student at the University of Chicago looking to solve complex problems in mathematics and various areas of data science.</p>
+Ryan D'Mello is a graduate of the University of Chicago looking to solve complex problems in mathematics and various areas of data science.</p>
 
 
 
