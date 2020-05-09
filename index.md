@@ -11,7 +11,7 @@ Computational and Applied Mathematics, Statistics <br>
 <em>Email: </em><a href="mailto:rydmello@gmail.com">rydmello@gmail.com</a> | <a 
 href="mailto:rdmello@uchicago.edu">rdmello@uchicago.edu</a> <br>
 
-- ** Github Portfolio: [https://github.com/rydmel](https://github.com/rydmel){:target="_blank"}**
+- **[https://github.com/rydmel](https://github.com/rydmel){:target="_blank"}**
 
 {% include image.html url="/images/Obama.jpg" caption="Meeting with President Obama as an Intel Science Talent Search Finalist in 2015. My research involved applying an old problem in number theory and elliptic curves to better encryption methods. There were applications of my research in cybersecurity. " width=450 align="right" %} 
 
