@@ -38,4 +38,4 @@ My interests remain at the intersection of Natural Language Processing and Machi
 In my free time, I enjoy Chess, Poker, and jamming on bass guitar. I also enjoy watching the NBA and NFL - avid Chicago Bulls and Chicago Bears fan.
 </p>
 
-{% include image.html url="/images/NBA Draft 2018.png" caption="Interview on the Chicago Bulls future at the 2018 NBA Draft in NYC" width=400 align="right" %}
+{% include image.html url="/images/NBA Draft 2018.png" caption="Interview on the Chicago Bulls' future at the 2018 NBA Draft in NYC" width=400 align="right" %}
