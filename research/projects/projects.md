@@ -3,7 +3,7 @@ layout: page
 title: Projects/Papers
 permalink: /research/projects/
 ---
-- **[Anomaly detection to predict relapse risk in schizophrenia](https://www.nature.com/articles/s41398-020-01123-7){:target="_blank"}**: <br>
+- **[Anomaly Detection to Predict Relapse Risk in Schizophrenia](https://www.nature.com/articles/s41398-020-01123-7){:target="_blank"}**: <br>
 The integration of technology in clinical care is growing rapidly and has become especially relevant during the global COVID-19 pandemic. Smartphone-based digital phenotyping, or the use of integrated sensors to identify patterns in behavior and symptomatology, has shown potential in detecting subtle moment-to-moment changes. These changes, often referred to as anomalies, represent significant deviations from an individual’s baseline, may be useful in informing the risk of relapse in serious mental illness. Our investigation of smartphone-based anomaly detection resulted in 89% sensitivity and 75% specificity for predicting relapse in schizophrenia. These results demonstrate the potential of longitudinal collection of real-time behavior and symptomatology via smartphones and the clinical utility of individualized analysis. Future studies are necessary to explore how specificity can be improved, just-in-time adaptive interventions utilized, and clinical integration achieved.
 
 
